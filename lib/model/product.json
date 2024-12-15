@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "MacBook Air",
+    "image": "https://www.digimap.co.id/cdn/shop/files/ipad_pro_image.001.jpg?v=1721029528&width=1920",
+    "price": 999.99
+  },
+  {
+    "id": 2,
+    "title": "iPhone 13",
+    "image": "https://ibox.co.id/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Feraspacelink%2Fpmp%2Fproduction%2Fbanners%2Fimages%2FjjBQ0PFwuE1ckodQHGFxrg8hpIKBkM3xfdm7CtuC.jpg&w=1920&q=55",
+    "price": 799.99
+  }
+]

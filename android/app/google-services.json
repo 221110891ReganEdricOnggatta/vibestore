@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624359747834",
+    "project_id": "vibe-store-96550",
+    "storage_bucket": "vibe-store-96550.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624359747834:android:2635ca6ecf444257701943",
+        "android_client_info": {
+          "package_name": "com.example.minggu4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqet9h9N4vEHa9PBnjfNBuoFXzDzf7bwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
